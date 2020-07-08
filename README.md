@@ -1,3 +1,3 @@
-<p align="center"><img src="https://ket.party/8iunqAd.png"><br><a href="/releases"><img src="https://img.shields.io/badge/version-0.1.0-00AAAA.svg"></a></center>
+<p align="center"><img src="https://cumz.one/8iunqAd.png"><br><a href="/releases"><img src="https://img.shields.io/badge/version-1.1.0-00AAAA.svg"></a></center>
 
 # Nothing to see...
